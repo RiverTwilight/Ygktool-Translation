@@ -4,6 +4,7 @@ module.exports = [
 		channel: 4,
 		icon: "/icons/tasks.png",
 		link: "point_brochure",
+		icon_color: "",
 		description: "利用多巴胺机制帮助你自律",
 	},
 	{
@@ -18,6 +19,7 @@ module.exports = [
 		channel: 4,
 		icon: "cloud_download",
 		link: "coming",
+		icon_color: "deblue-300",
 		description: "将种子文件转换为磁力链接",
 	},
 	{
@@ -49,6 +51,7 @@ module.exports = [
 		name: "屏幕录制",
 		link: "screenrecord",
 		icon: "videocam",
+		icon_color: "orange-400",
 		help: "仅限PC端最新版本的Chrome/Firefox/Opera使用",
 		channel: 2,
 	},
@@ -130,7 +133,7 @@ module.exports = [
 		channel: 4,
 	},
 	{
-		name: "pornhub风格图片生成",
+		name: "PornHub风格图片生成",
 		link: "fake_pornhub_logo",
 		icon: "insert_emoticon",
 		icon_color: "orange",
@@ -224,14 +227,14 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "html转JSX",
+		name: "HTML转JSX",
 		link: "html2jsx",
 		icon: "/icons/code.png",
 		help: "不支持部分Html属性，请手动改为小驼峰命名法，所有操作均在本地执行，不消耗数据流量",
 		channel: 3,
 	},
 	{
-		name: "mimetype查询",
+		name: "MIME-type查询",
 		link: "mimetype",
 		icon: "attachment",
 		icon_color: "purple",
@@ -239,7 +242,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "运动记分板",
+		name: "运动计分板",
 		link: "scoreboard",
 		icon: "today",
 		icon_color: "lime",
@@ -264,7 +267,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "图片转base64",
+		name: "图片转Base64",
 		link: "img2base64",
 		icon: "photo",
 		icon_color: "green-300",
@@ -370,9 +373,9 @@ module.exports = [
 		network: true,
 	},
 	{
-		name: "js键盘码查询",
+		name: "JS键盘码查询",
 		link: "js_keycode",
-		icon: "/icons/js.png",
+		icon: "settings_applications",
 		channel: 3,
 	},
 	{ name: "Hello Tool", link: "http://hellotool.htm.kim", channel: 5 },
