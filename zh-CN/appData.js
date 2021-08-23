@@ -1,10 +1,4 @@
-import dynamic from "next/dynamic";
-
-const importConfig = {
-	ssr: false,
-};
-
-export default [
+module.exports = [
 	{
 		name: "自律神器：积分奖手册",
 		channel: 4,
