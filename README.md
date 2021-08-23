@@ -32,4 +32,4 @@ If you are familiar with Github, just fork a repository and create a pull reques
 
 Or just download the raw text file.
 
-After completing your translation, just send me an email at [wrj2014i@126.com](mailto:wrj2014i@126.com).
+After completing your translation, just send me an email at [wrj2014@126.com](mailto:wrj2014@126.com).
