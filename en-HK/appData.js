@@ -1,9 +1,9 @@
 /*
-     Ygktool AppList - American English Translation
+     Ygktool AppList - HongKong English Translation
 CurrentVersion=[1.1 by Hsdbql]
-PreviousEditions=[1.0 by Hsdbql] , [Original Simplified Chinese by RiverTwilight]
-FinishTime=[2021-8-24 13.47 GTM+8] , [2021-8-23 20.16 GTM+8]
-ApostilleNote=[Listening to exciting music really helps to improve tedious work efficiency.So,when I translate this document, I'm listening to a album called "Tsuyoshi Sekito --BRAVE FENCER MUSASHIDEN Original Soundtrack" at the same time.]
+PreviousEditions=[Original Simplified Chinese by RiverTwilight]
+FinishTime=[2021-8-24 14.21 GTM+8]
+ApostilleNote=[The Hong Kong English version has all Chinese version tools. The American English version removes some functions that are not needed by European and American users.]
 */
 
 module.exports = [
@@ -16,14 +16,14 @@ module.exports = [
 		description: "Enjoy the sense of accomplishment",
 	},
 	{
-		name: "Ionic-Equations Balancing",
+		name: "Ionic Equations Balancing",
 		channel: 4,
 		icon: "/icons/lens.png",
 		link: "coming",
 		icon_color: "teal",
 	},
 	{
-		name: "Torrent 2 Magnet",
+		name: "Torrent to Magnet",
 		channel: 4,
 		icon: "cloud_download",
 		link: "coming",
@@ -89,7 +89,7 @@ module.exports = [
 	// 	channel: 4,
 	// },
 	{
-		name: "Time Counter",
+		name: "Time&Date Counter",
 		link: "date_calculator",
 		icon: "/icons/Google_Calendar_icon_(2020).svg",
 		icon_color: "purple-200",
@@ -130,7 +130,7 @@ module.exports = [
 		description: "Customizable color and size; support to generate WIFI code",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "Get Bilibili Video Cover",
 		link: "bilibili_cover",
 		icon: "photo_size_select_actual",
@@ -138,9 +138,9 @@ module.exports = [
 		description: "Download videos and anime covers on Bilibili",
 		help: "Please start with md for the animation number; start with av for the video number. Click the image link to copy it.",
 		channel: 4,
-	},*/
+	},
 	{
-		name: "PornHub-like Logo Maker",
+		name: "PornHub Style Logo Maker",
 		link: "fake_pornhub_logo",
 		icon: "insert_emoticon",
 		icon_color: "orange",
@@ -163,7 +163,7 @@ module.exports = [
 		help: "Please google by yourself for language type. For example, American English is en-us.",
 		channel: 3,
 	},
-	/*{
+	{
 		name: "Chinese Local Scripts Transformer",
 		link: "sctc",
 		icon: "font_download",
@@ -171,7 +171,7 @@ module.exports = [
 		help: "This function was made by MelancholyTortoise(憂郁的烏龜).",
 		description: "Translate Traditional Chinese to Simplified Chinese, or reverse",
 		channel: 4,
-	},*/
+	},
 	{
 		name: "Make a Decision",
 		link: "decision",
@@ -182,7 +182,7 @@ module.exports = [
 		channel: 4,
 	},
 	{
-		name: "Templated Text Generator",
+		name: "Templated Text Generation",
 		link: "text_create",
 		icon: "font_download",
 		icon_color: "brown-200",
@@ -207,7 +207,7 @@ module.exports = [
 		help: "Oversized videos may be lagging. All operations are performed locally, no data traffic will consumed",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "SakuraAnimations Downloader",
 		link: "imomoe_parse",
 		icon: "ondemand_video",
@@ -215,7 +215,7 @@ module.exports = [
 		help: "Some streaming videos cannot be downloaded",
 		channel: 2,
 		network: true,
-	},*/
+	},
 	{
 		name: "Nine-Grids Image Cutter",
 		link: "img_split",
@@ -235,7 +235,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "HTML 2 JSX",
+		name: "HTML to JSX",
 		link: "html2jsx",
 		icon: "/icons/code.png",
 		help: "Some Html attributes are not supported, please manually change them to the smallCamel. All operations are performed locally and won't consume data traffic",
@@ -262,7 +262,7 @@ module.exports = [
 		link: "emoticon",
 		icon: "tag_faces",
 		icon_color: "yellow",
-                                description: "Easily make sino-popularly and other styles of memes",
+                                description: "Make your own fun stickers and share them with your friends on social media",
 		help: "",
 		channel: 2,
 	},
@@ -276,7 +276,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "Image 2 Base64",
+		name: "Image to Base64",
 		link: "img2base64",
 		icon: "photo",
 		icon_color: "green-300",
@@ -298,14 +298,14 @@ module.exports = [
 		icon_color: "blue-600",
 		channel: 4,
 	},
-	/*{
+	{
 		name: "NeteaseMusic Playlist Comparer",
 		link: "songlist",
 		icon: "queue_music",
 		icon_color: "red-600",
 		channel: 4,
 		network: true,
-	},*/
+	},
 	{
 		name: "Image Compression",
 		link: "img_compress",
@@ -332,14 +332,14 @@ module.exports = [
 		channel: 1,
 		network: true,
 	},
-	/*{
+	{
 		name: "Amount in Chinese",
 		link: "num2chinese",
 		icon: "attach_money",
 		icon_color: "yellow-600",
 		help: "The generated results are for reference only",
 		channel: 4,
-	},*/
+	},
 	{
 		name: "Color Pipet&Palette",
 		link: "color_picker",
@@ -348,7 +348,7 @@ module.exports = [
 		help: "You can use the keyboard arrow keys to accurately adjust",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "Chinese Words Dictionary",
 		link: "dic_ci",
 		icon: "/icons/book.png",
@@ -379,18 +379,18 @@ module.exports = [
 		description: "Explore characters with a history of five thousand years",
 		channel: 4,
 		network: true,
-	},*/
+	},
 	{
 		name: "JS Keycode Query",
 		link: "js_keycode",
 		icon: "settings_applications",
 		channel: 3,
 	},
-	/*{ name: "HelloTool App", link: "http://hellotool.htm.kim", channel: 5 },
+	{ name: "HelloTool App", link: "http://hellotool.htm.kim", channel: 5 },
 	{
 		name: "Featured Site Index",
 		link: "https://imyshare.com/?from=ygktool",
 		channel: 5,
 	},
-	{ name: "Milim Music", link: "https://yinyue.qugeek.com/", channel: 5 },*/
+	{ name: "Milim Music", link: "https://yinyue.qugeek.com/", channel: 5 },
 ];
