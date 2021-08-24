@@ -1,5 +1,12 @@
+/*
+     Ygktool AppList - HongKong English Translation
+CurrentVersion=[1.1 by Hsdbql]
+PreviousEditions=[Original Simplified Chinese by RiverTwilight]
+FinishTime=[2021-8-24 14.21 GTM+8]
+ApostilleNote=[The Hong Kong English version has all Chinese version tools. The American English version removes some functions that are not needed by European and American users.]
+*/
+
 module.exports = [
-	// ADD TRANSLATION...
                {
 		name: "Credit To-Do",
 		channel: 4,
@@ -292,7 +299,7 @@ module.exports = [
 		channel: 4,
 	},
 	{
-		name: "NeteaseMusic Playlist Comparison",
+		name: "NeteaseMusic Playlist Comparer",
 		link: "songlist",
 		icon: "queue_music",
 		icon_color: "red-600",

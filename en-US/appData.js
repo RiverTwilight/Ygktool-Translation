@@ -1,5 +1,12 @@
+/*
+     Ygktool AppList - American English Translation
+CurrentVersion=[1.1 by Hsdbql]
+PreviousEditions=[1.0 by Hsdbql] , [Original Simplified Chinese by RiverTwilight]
+FinishTime=[2021-8-24 13.47 GTM+8] , [2021-8-23 20.16 GTM+8]
+ApostilleNote=[Listening to exciting music really helps to improve tedious work efficiency.So,when I translate this document, I'm listening to a album called "Tsuyoshi Sekito --BRAVE FENCER MUSASHIDEN Original Soundtrack" at the same time.]
+*/
+
 module.exports = [
-	// ADD TRANSLATION...
                {
 		name: "Credit To-Do",
 		channel: 4,
@@ -292,7 +299,7 @@ module.exports = [
 		channel: 4,
 	},
 	/*{
-		name: "NeteaseMusic Playlist Comparator",
+		name: "NeteaseMusic Playlist Comparer",
 		link: "songlist",
 		icon: "queue_music",
 		icon_color: "red-600",
