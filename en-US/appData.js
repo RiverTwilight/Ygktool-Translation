@@ -1,7 +1,7 @@
 module.exports = [
 	// ADD TRANSLATION...
                {
-		name: "To-Do Credits",
+		name: "Credit To-Do",
 		channel: 4,
 		icon: "/icons/tasks.png",
 		link: "point_brochure",
@@ -9,7 +9,7 @@ module.exports = [
 		description: "Enjoy the sense of accomplishment",
 	},
 	{
-		name: "Ionic Equations Balancing",
+		name: "Ionic-Equations Balancing",
 		channel: 4,
 		icon: "/icons/lens.png",
 		link: "coming",
@@ -74,7 +74,7 @@ module.exports = [
 		channel: 3,
 	},
 	// {
-	// 	name: "Text Translation",
+	// 	name: "Text Translator",
 	// 	link: "translate",
 	// 	icon: "translate",
 	// 	icon_color: "blue-400",
@@ -116,7 +116,7 @@ module.exports = [
 		channel: 2,
 	},
 	{
-		name: "QR Code Generator",
+		name: "QR-Code Generator",
 		link: "qrcode",
 		icon: "/icons/qrcode.png",
 		help: "",
@@ -175,7 +175,7 @@ module.exports = [
 		channel: 4,
 	},
 	{
-		name: "Templated Text Generation",
+		name: "Templated Text Generator",
 		link: "text_create",
 		icon: "font_download",
 		icon_color: "brown-200",
@@ -201,7 +201,7 @@ module.exports = [
 		channel: 2,
 	},
 	/*{
-		name: "Sakura-Animations Downloader",
+		name: "SakuraAnimations Downloader",
 		link: "imomoe_parse",
 		icon: "ondemand_video",
 		icon_color: "pink",
@@ -292,7 +292,7 @@ module.exports = [
 		channel: 4,
 	},
 	/*{
-		name: "NeteaseMusic Playlist Comparison",
+		name: "NeteaseMusic Playlist Comparator",
 		link: "songlist",
 		icon: "queue_music",
 		icon_color: "red-600",

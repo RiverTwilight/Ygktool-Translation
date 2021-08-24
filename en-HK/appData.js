@@ -1,7 +1,7 @@
 module.exports = [
 	// ADD TRANSLATION...
                {
-		name: "To-Do Credits",
+		name: "Credit To-Do",
 		channel: 4,
 		icon: "/icons/tasks.png",
 		link: "point_brochure",
@@ -16,7 +16,7 @@ module.exports = [
 		icon_color: "teal",
 	},
 	{
-		name: "Torrent 2 Magnet",
+		name: "Torrent to Magnet",
 		channel: 4,
 		icon: "cloud_download",
 		link: "coming",
@@ -74,7 +74,7 @@ module.exports = [
 		channel: 3,
 	},
 	// {
-	// 	name: "Text Translation",
+	// 	name: "Text Translator",
 	// 	link: "translate",
 	// 	icon: "translate",
 	// 	icon_color: "blue-400",
@@ -82,7 +82,7 @@ module.exports = [
 	// 	channel: 4,
 	// },
 	{
-		name: "Time Counter",
+		name: "Time&Date Counter",
 		link: "date_calculator",
 		icon: "/icons/Google_Calendar_icon_(2020).svg",
 		icon_color: "purple-200",
@@ -116,7 +116,7 @@ module.exports = [
 		channel: 2,
 	},
 	{
-		name: "QR Code Generator",
+		name: "QR-Code Generator",
 		link: "qrcode",
 		icon: "/icons/qrcode.png",
 		help: "",
@@ -133,7 +133,7 @@ module.exports = [
 		channel: 4,
 	},
 	{
-		name: "PornHub-like Logo Maker",
+		name: "PornHub Style Logo Maker",
 		link: "fake_pornhub_logo",
 		icon: "insert_emoticon",
 		icon_color: "orange",
@@ -201,7 +201,7 @@ module.exports = [
 		channel: 2,
 	},
 	{
-		name: "Sakura-Animations Downloader",
+		name: "SakuraAnimations Downloader",
 		link: "imomoe_parse",
 		icon: "ondemand_video",
 		icon_color: "pink",
@@ -228,7 +228,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "HTML 2 JSX",
+		name: "HTML to JSX",
 		link: "html2jsx",
 		icon: "/icons/code.png",
 		help: "Some Html attributes are not supported, please manually change them to the smallCamel. All operations are performed locally and won't consume data traffic",
@@ -255,7 +255,7 @@ module.exports = [
 		link: "emoticon",
 		icon: "tag_faces",
 		icon_color: "yellow",
-                                description: "Easily make sino-popularly and other styles of memes",
+                                description: "Make your own fun stickers and share them with your friends on social media",
 		help: "",
 		channel: 2,
 	},
@@ -269,7 +269,7 @@ module.exports = [
 		channel: 3,
 	},
 	{
-		name: "Image 2 Base64",
+		name: "Image to Base64",
 		link: "img2base64",
 		icon: "photo",
 		icon_color: "green-300",
