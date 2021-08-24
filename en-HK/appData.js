@@ -123,7 +123,7 @@ module.exports = [
 		description: "Customizable color and size; support to generate WIFI code",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "Get Bilibili Video Cover",
 		link: "bilibili_cover",
 		icon: "photo_size_select_actual",
@@ -131,7 +131,7 @@ module.exports = [
 		description: "Download videos and anime covers on Bilibili",
 		help: "Please start with md for the animation number; start with av for the video number. Click the image link to copy it.",
 		channel: 4,
-	},*/
+	},
 	{
 		name: "PornHub-like Logo Maker",
 		link: "fake_pornhub_logo",
@@ -156,7 +156,7 @@ module.exports = [
 		help: "Please google by yourself for language type. For example, American English is en-us.",
 		channel: 3,
 	},
-	/*{
+	{
 		name: "Chinese Local Scripts Transformer",
 		link: "sctc",
 		icon: "font_download",
@@ -164,7 +164,7 @@ module.exports = [
 		help: "This function was made by MelancholyTortoise(憂郁的烏龜).",
 		description: "Translate Traditional Chinese to Simplified Chinese, or reverse",
 		channel: 4,
-	},*/
+	},
 	{
 		name: "Make a Decision",
 		link: "decision",
@@ -200,7 +200,7 @@ module.exports = [
 		help: "Oversized videos may be lagging. All operations are performed locally, no data traffic will consumed",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "Sakura-Animations Downloader",
 		link: "imomoe_parse",
 		icon: "ondemand_video",
@@ -208,7 +208,7 @@ module.exports = [
 		help: "Some streaming videos cannot be downloaded",
 		channel: 2,
 		network: true,
-	},*/
+	},
 	{
 		name: "Nine-Grids Image Cutter",
 		link: "img_split",
@@ -291,14 +291,14 @@ module.exports = [
 		icon_color: "blue-600",
 		channel: 4,
 	},
-	/*{
+	{
 		name: "NeteaseMusic Playlist Comparison",
 		link: "songlist",
 		icon: "queue_music",
 		icon_color: "red-600",
 		channel: 4,
 		network: true,
-	},*/
+	},
 	{
 		name: "Image Compression",
 		link: "img_compress",
@@ -325,14 +325,14 @@ module.exports = [
 		channel: 1,
 		network: true,
 	},
-	/*{
+	{
 		name: "Amount in Chinese",
 		link: "num2chinese",
 		icon: "attach_money",
 		icon_color: "yellow-600",
 		help: "The generated results are for reference only",
 		channel: 4,
-	},*/
+	},
 	{
 		name: "Color Pipet&Palette",
 		link: "color_picker",
@@ -341,7 +341,7 @@ module.exports = [
 		help: "You can use the keyboard arrow keys to accurately adjust",
 		channel: 2,
 	},
-	/*{
+	{
 		name: "Chinese Words Dictionary",
 		link: "dic_ci",
 		icon: "/icons/book.png",
@@ -372,18 +372,18 @@ module.exports = [
 		description: "Explore characters with a history of five thousand years",
 		channel: 4,
 		network: true,
-	},*/
+	},
 	{
 		name: "JS Keycode Query",
 		link: "js_keycode",
 		icon: "settings_applications",
 		channel: 3,
 	},
-	/*{ name: "HelloTool App", link: "http://hellotool.htm.kim", channel: 5 },
+	{ name: "HelloTool App", link: "http://hellotool.htm.kim", channel: 5 },
 	{
 		name: "Featured Site Index",
 		link: "https://imyshare.com/?from=ygktool",
 		channel: 5,
 	},
-	{ name: "Milim Music", link: "https://yinyue.qugeek.com/", channel: 5 },*/
+	{ name: "Milim Music", link: "https://yinyue.qugeek.com/", channel: 5 },
 ];
