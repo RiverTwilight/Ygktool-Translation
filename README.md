@@ -1,3 +1,10 @@
+<div align="center">
+
+English | [简体中文](./README_chs.md) | [繁體中文](./README_cht.md)
+
+<hr>
+</div>
+
 # Ygktool-Translation
 
 The raw text resource of [Ygktool.cn](https:www.ygktool.cn).
@@ -6,13 +13,14 @@ Welcome to contribute more language or improve current languages!
 
 ## Current Language Lists
 
--   [ ] English(en-US)
--   [ ] simplified Chinese(zh-CN)
--   [ ] traditional Chinese(zh-TW)
+-   [ ] American English (en-US)
+-   [ ] HongKong English (en-HK)
+-   [ ] Simplified Chinese (zh-CN)
+-   [ ] Traditional Chinese (zh-TW)
 
 ## File list
 
-**appData.ts**
+**appData.js**
 
 All the original text in the app, and contains some variables.
 
@@ -33,3 +41,9 @@ If you are familiar with Github, just fork a repository and create a pull reques
 Or just download the raw text file.
 
 After completing your translation, just send me an email at [wrj2014@126.com](mailto:wrj2014@126.com).
+
+## FAQ
+
+### What is the difference between en-HK and en-US ?
+
+The HongKong English has all Chinese-version tools. The American English version removes some functions that are not needed by European and American users.
