@@ -7,7 +7,7 @@ ApostilleNote=[Listening to exciting music really helps to improve tedious work 
 */
 
 module.exports = [
-               {
+	{
 		name: "Credit To-Do",
 		channel: 4,
 		icon: "/icons/tasks.png",
@@ -44,7 +44,8 @@ module.exports = [
 		icon: "lock",
 		link: "policy_generator",
 		icon_color: "grey-500",
-		description: "Generate customized service agreements and privacy policies for your product",
+		description:
+			"Generate customized service agreements and privacy policies for your product",
 	},
 	{
 		name: "Image Identification",
@@ -52,7 +53,8 @@ module.exports = [
 		icon: "photo_album",
 		icon_color: "blue-500",
 		help: "",
-		description: "Identify objects in the picture, such as plants/animals/cars/dishes...",
+		description:
+			"Identify objects in the picture, such as plants/animals/cars/dishes...",
 		channel: 1,
 	},
 	{
@@ -68,7 +70,7 @@ module.exports = [
 		link: "ua",
 		icon: "devices",
 		icon_color: "teal-300",
-                                help: "The UA of the current browser is displayed by default",
+		help: "The UA of the current browser is displayed by default",
 		description: "Analyze the current browser's or specified User-Agent",
 		channel: 3,
 	},
@@ -94,7 +96,8 @@ module.exports = [
 		icon: "/icons/Google_Calendar_icon_(2020).svg",
 		icon_color: "purple-200",
 		help: "Enter a negative number to calculate the past days",
-		description:"Calculate the time between two dates, or reverse it. You can calculate how long you have lived :)",
+		description:
+			"Calculate the time between two dates, or reverse it. You can calculate how long you have lived :)",
 		channel: 4,
 	},
 	{
@@ -102,7 +105,8 @@ module.exports = [
 		link: "tomato",
 		icon: "access_alarm",
 		icon_color: "red",
-		description:"The Pomodoro Technique greatly improves work efficiency, and there will be an unexpected sense of accomplishment",
+		description:
+			"The Pomodoro Technique greatly improves work efficiency, and there will be an unexpected sense of accomplishment",
 		channel: 4,
 	},
 	{
@@ -127,7 +131,8 @@ module.exports = [
 		link: "qrcode",
 		icon: "/icons/qrcode.png",
 		help: "",
-		description: "Customizable color and size; support to generate WIFI code",
+		description:
+			"Customizable color and size; support to generate WIFI code",
 		channel: 2,
 	},
 	/*{
@@ -177,7 +182,8 @@ module.exports = [
 		link: "decision",
 		icon: "widgets",
 		icon_color: "indigo",
-		description: "Random selection, the gospel of choosing-difficult persons",
+		description:
+			"Random selection, the gospel of choosing-difficult persons",
 		help: "",
 		channel: 4,
 	},
@@ -203,7 +209,7 @@ module.exports = [
 		link: "gif",
 		icon: "gif",
 		icon_color: "light-green",
-                                description: "Use pictures or videos to synthesize animated GIFs",
+		description: "Use pictures or videos to synthesize animated GIFs",
 		help: "Oversized videos may be lagging. All operations are performed locally, no data traffic will consumed",
 		channel: 2,
 	},
@@ -221,7 +227,8 @@ module.exports = [
 		link: "img_split",
 		icon: "apps",
 		icon_color: "blue",
-		description: "Cut the picture into nine square grids for posting on social media",
+		description:
+			"Cut the picture into nine square grids for posting on social media",
 		help: "",
 		channel: 2,
 	},
@@ -262,7 +269,7 @@ module.exports = [
 		link: "emoticon",
 		icon: "tag_faces",
 		icon_color: "yellow",
-                                description: "Easily make sino-popularly and other styles of memes",
+		description: "Easily make sino-popularly and other styles of memes",
 		help: "",
 		channel: 2,
 	},
@@ -271,7 +278,8 @@ module.exports = [
 		link: "endecode",
 		icon: "wb_auto",
 		icon_color: "cyan-200",
-		description: "Probably the most comprehensive text conversion tool, supporting up to 7 types",
+		description:
+			"Probably the most comprehensive text conversion tool, supporting up to 7 types",
 		help: "",
 		channel: 3,
 	},
@@ -328,7 +336,8 @@ module.exports = [
 		icon: "mic",
 		icon_color: "teal-300",
 		help: "Up to 500 characters each time",
-		description:"Convert text to sound, supported multiple voice rays and speed/pitch/volume/custom",
+		description:
+			"Convert text to sound, supported multiple voice rays and speed/pitch/volume/custom",
 		channel: 1,
 		network: true,
 	},
