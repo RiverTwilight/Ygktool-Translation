@@ -5,7 +5,7 @@ module.exports = {
 	},
 	"/setting": {
 		title: "设置",
-		hitokoto_topic: "一言主题",
+		hitokoto_topic: "一言语录风格",
 		theme: "主题"
 	},
 };
