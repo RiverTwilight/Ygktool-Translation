@@ -1,10 +1,10 @@
 module.exports = {
 	"/": {
-		title: "首页",
+		title: "首頁",
 		description: "",
 	},
 	"/setting": {
-		title: "设置",
-		hitokoto_topic: "一言主题"
+		title: "設定",
+		hitokoto_topic: "一言主題"
 	},
 };
