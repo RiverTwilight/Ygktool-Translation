@@ -4,6 +4,6 @@ module.exports = {
 		description: "",
 	},
 	"/setting": {
-		title: "Setting",
+		title: "Settings",
 	},
 };
