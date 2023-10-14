@@ -4,19 +4,19 @@ module.exports = {
 		description: "",
 	},
 	"/setting": {
-		title: "Setting",
+		title: "Settings",
 
 		menu_hitokoto_source: "Hitokoto Source",
-		menu_customize_title: "Customization",
-		menu_theme: "Color Theme",
+		menu_customize_title: "Individualization",
+		menu_theme: "Color Scheme",
 
-		menu_contact_title: "Contack Us",
-		menu_contact_developer: "Contact Developer",
+		menu_contact_title: "Contact us",
+		menu_contact_developer: "Contact the Developer",
 
 		menu_about_title: "About",
 		menu_donation: "Support Us",
-		menu_privacy: "Privacy",
-		menu_group: "Join the group",
+		menu_privacy: "Privacy Policy",
+		menu_group: "Join Our QQ Group Chat",
 		menu_twitter: "Follow us on Twitter",
 	},
 };

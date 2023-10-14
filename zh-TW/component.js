@@ -1,6 +1,6 @@
 module.exports = {
 	leftDrawer: {
 		home: "Home",
-        noLogin: "未登录",
+        noLogin: "未登入",
 	},
 };
